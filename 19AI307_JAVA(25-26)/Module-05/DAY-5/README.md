@@ -46,7 +46,6 @@ public class ThreadPriorityDemo {
         sc.close();
     }
 }
-
 ```
 
 ## OUTPUT:
@@ -55,4 +54,5 @@ public class ThreadPriorityDemo {
 
 ## RESULT:
 Thus, the program successfully reads a thread name and priority from the user, assigns the given priority to the new thread, and displays the result.
+
 
